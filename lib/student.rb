@@ -1,4 +1,4 @@
 class Student < User
-  attr_reader
+  attr_reader :knowledge
 
 end
